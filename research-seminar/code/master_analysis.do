@@ -1,7 +1,7 @@
 
 ************************************************************
-* Julia DeChellis EC481 - Union Density & Income Inequality (2000–2023)
-* 210436880 - Stata Code 
+* Julia DeChellis - Union Density & Income Inequality (2000–2023)
+* Stata Code 
 ************************************************************
 
 version 18
